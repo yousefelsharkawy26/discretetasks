@@ -1,0 +1,8 @@
+C:\Users\shr_1\source\repos\primenumber\primenumber\obj\Debug\primenumber.csproj.AssemblyReference.cache
+C:\Users\shr_1\source\repos\primenumber\primenumber\obj\Debug\primenumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\shr_1\source\repos\primenumber\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\shr_1\source\repos\primenumber\primenumber\bin\Debug\primenumber.exe.config
+C:\Users\shr_1\source\repos\primenumber\primenumber\bin\Debug\primenumber.exe
+C:\Users\shr_1\source\repos\primenumber\primenumber\bin\Debug\primenumber.pdb
+C:\Users\shr_1\source\repos\primenumber\primenumber\obj\Debug\primenumber.exe
+C:\Users\shr_1\source\repos\primenumber\primenumber\obj\Debug\primenumber.pdb
